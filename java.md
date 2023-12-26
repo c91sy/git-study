@@ -1,5 +1,5 @@
 category: java
-title: java level2
+title: java advanced
 lectures: Jin
 relate:
 xcss
