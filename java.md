@@ -1,6 +1,6 @@
 category: java
 title: java advanced
-lectures: Jin
+lectures: Kang
 relate:
 - xcss
 - eclipse
