@@ -6,3 +6,4 @@ relate:
 - eclipse
 - springboot
 - exception
+- inherit
