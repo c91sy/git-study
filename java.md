@@ -2,4 +2,5 @@ category: java
 title: java advanced
 lectures: Jin
 relate:
-xcss
+- xcss
+- eclipse
